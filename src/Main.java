@@ -24,5 +24,11 @@ public class Main {
         rainha.falar("alto");
 System.out.println("alto");
 
+        Animal cao = new Animal();
+        cao.nome = "pluto";
+        cao.comer();
+
+        rainha.comer();
+
     }
 }
