@@ -12,5 +12,7 @@ public class Solo {
 
         Planta p1 = new Planta(s1);
         return p1;
+    //ggg
+
     }
 }
